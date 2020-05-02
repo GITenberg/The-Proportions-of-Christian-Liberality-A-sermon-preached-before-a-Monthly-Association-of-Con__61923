@@ -1,0 +1,28 @@
+_repo: The-Proportions-of-Christian-Liberality-A-sermon-preached-before-a-Monthly-Association-of-Con__61923
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collyer, William Bengo'
+    alias: Collyer, William Bengo
+    birthdate: 1782
+    deathdate: 1854
+    gutenberg_agent_id: '51681'
+    url: http://www.gutenberg.org/2009/agents/51681
+    wikipedia: https://en.wikipedia.org/wiki/William_Bengo%27_Collyer
+description: ''
+gutenberg_issued: '2020-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Sermons, English -- 19th century'
+- GITenberg
+title: "The Proportions of Christian Liberality\r\nA sermon, preached before a Monthly\
+  \ Association of Congregational Ministers and Churches, held at Trevor Chapel, Brompton,\
+  \ April 8, 1824"
+url: http://www.gutenberg.org/ebooks/61923
