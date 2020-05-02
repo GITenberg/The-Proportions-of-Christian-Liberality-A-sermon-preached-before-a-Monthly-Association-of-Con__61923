@@ -1,5 +1,8 @@
 _repo: The-Proportions-of-Christian-Liberality-A-sermon-preached-before-a-Monthly-Association-of-Con__61923
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61923-h/images/cover.jpg
 creator:
   author:
     agent_name: Collyer, William Bengo'
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51681
     wikipedia: https://en.wikipedia.org/wiki/William_Bengo%27_Collyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61923#The-Proportions-of-Christian-Liberality-A-sermon-preached-before-a-Monthly-Association-of-Con_
 gutenberg_issued: '2020-04-25'
 gutenberg_type: Text
 identifiers:
